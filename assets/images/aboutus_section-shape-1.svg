@@ -1,9 +1,0 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 131 129" width="131" height="129">
-	<title>create-section-shape-1</title>
-	<defs>
-		<image  width="131" height="129" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIMAAACBAQMAAADZm5suAAAAAXNSR0IB2cksfwAAAAZQTFRF2Pb9AAAA6HJMCgAAAAJ0Uk5TAP9bkSK1AAAAZklEQVR4nGOUT2z8zoFMMNo3Ov9kQSYY6xPVvzMhEzQUwbQd04UM6GDQiYyG6kCJ2B9kfiuATDDWM7Z/5EAmGP8f9H/LgkzQUATTdkwXDrYwxBQZDVX6iIyGMy1ERkN1oESGYMgDAJ59UaBfWxgWAAAAAElFTkSuQmCC"/>
-	</defs>
-	<style>
-	</style>
-	<use id="Layer 1" href="#img1" x="0" y="0"/>
-</svg>

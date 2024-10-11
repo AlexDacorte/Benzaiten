@@ -1,7 +1,7 @@
 /*------------------------------------------------------------------
 [Master Stylesheet]
 
-Project: RexBiz
+Project: Benzaiten
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [Table of contents]
@@ -838,7 +838,7 @@ a:hover .cursor::after {
 /*-------- FOOTER SECTION ------------ */
 
 .footer-section {
-    padding: 120px 0;
+    padding: 60px 0;
     background: var(--e-global-color-black);
 }
 .footer-section h5 {
@@ -855,11 +855,11 @@ a:hover .cursor::after {
     font-size: 16px;
     line-height: 26px;
     font-weight: 300;
-    color: var(--e-global-color-light-grayish-blue);
+    color: var(--e-global-color-dark-gray);
     font-family: 'Nunito', sans-serif;
 }
 .footer-section ul li a:hover {
-    color: var(--e-global-color-accent);
+    color: var(--e-global-color-white);
 }
 .footer-section ul li .phone {
     font-size: 20px;
@@ -892,7 +892,7 @@ a:hover .cursor::after {
     border: 1px solid #414a56;
 }
 .footer-section .footer-info-content a:hover {
-    background: var(--e-global-color-accent);
+    background: var(--e-global-color-white);
 }
 .footer-section .footer-info-content a i {
     font-size: inherit;
@@ -917,7 +917,7 @@ a:hover .cursor::after {
 /*-------- FOOTER BAR ------------ */
 
 .footer-bar {
-    background: var(--e-global-color-dark-grayish-blue);
+    background: var(--e-global-color-white);
     padding: 27px 0;
     border-top: 1px solid #3e4855;
 }
@@ -925,7 +925,7 @@ a:hover .cursor::after {
     font-size: 14px;
     line-height: 14px;
     font-weight: 300;
-    color: var(--e-global-color-light-grayish-blue);
+    color: var(--e-global-color-black);
 }
 .footer-bar .section-right-shape {
     bottom: 0;
